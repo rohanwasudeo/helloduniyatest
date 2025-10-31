@@ -1,0 +1,11 @@
+body {
+  background: #f8fafc;
+}
+
+h1.display-3 {
+  color: #0d6efd;
+  transition: color 0.3s;
+}
+h1.display-3:hover {
+  color: #6610f2;
+}
